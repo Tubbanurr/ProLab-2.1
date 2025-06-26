@@ -1,0 +1,3799 @@
+fileFormatVersion: 2
+guid: 5570c4035a042844d845dc577947e057
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_0"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0707fdf9187376247b13cac53a025066
+      internalID: 1759346273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_1"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 874
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5120151, y: 0.51201475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7685e1ca31bb5847bc252d5a6774055
+      internalID: -1001538796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_2"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 382
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: -2.4555795, y: -3.0563068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5875b85278f2e447b50ec9ac5c20b5c
+      internalID: -1144217148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_3"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 871
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.62014556, y: 0.34381104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dab57fd0d98c814ebf84a0350326a75
+      internalID: -217621778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_4"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac8eb3d7861784c8407d58530fe715
+      internalID: -332207078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_5"
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb30a144afd62a4c9cf26a1ca8622f4
+      internalID: 520787200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_6"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be70105b2e0e54cae13598b77514c4
+      internalID: -565898453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_7"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ce5d76c4e4d4e4da9fb620857da9f2
+      internalID: 137378820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_8"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 874
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b20c12324bcd514aa8b904c74b50bd0
+      internalID: -1557780332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_9"
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 718
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c23bd9a2742ce4a8b82076c42d0b25
+      internalID: 1490716317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_10"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9890277ccf8da31439441d808caa8bdf
+      internalID: -812482714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_11"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 845
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ce6f055379b9418dbe44299bfcde6
+      internalID: -921079131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_12"
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 873
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: -0.040653076, y: 0.47597107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b3e89ab27e6dc459aec51aee5cb6e0
+      internalID: -143239902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_13"
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981dfd908ba1f5e43b69e42285e03b4d
+      internalID: 181040074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_14"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d5f4fb5bb3544984aaf72a89f71ee
+      internalID: -713031446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_15"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8993563aa7bf9d44ade97162d4a7299
+      internalID: 1380898387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_16"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 873
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2dd7b3f9a62694989d9c541ada362a
+      internalID: -1731170261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_17"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d629c0130c82f624c9645b0a4fd6c720
+      internalID: -138083743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_18"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c05a019f9adf754480c75f645f5c0dd
+      internalID: 218450647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_19"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1b5f0b843ce84d870d366cdd334f6
+      internalID: 1532261116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_20"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5a90055999b154c996cffc2dcd3886
+      internalID: 275302572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_21"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e7486f06641b5429121145f99e7a81
+      internalID: -892800808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_22"
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c21be0a36f50846888e49e2985113d
+      internalID: -723461030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_23"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f755704510b53e4aa284a4aa60c7e6e
+      internalID: 732543308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_24"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431118e5409605c41bbf6dc0f207e9ff
+      internalID: -1011614734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_25"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef92086e1811549b436fcb1dceb7bb
+      internalID: 1030596968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_26"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41963fef8bcae3f4a9be38d2dde9f0a7
+      internalID: -836285245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_27"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f82b3ac2c998254eb0696bc57824be3
+      internalID: -993865932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_28"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb5065e77ddbf144926bc0c28564dd9
+      internalID: -2119014444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_29"
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e71301f885f06b4c82f8cbc192715b7
+      internalID: 2004072421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_30"
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f1e7ad3eae7414a9328ba68d9409d5
+      internalID: 1334025077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_31"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5793392255e0f546a7a8a733614d9b5
+      internalID: -846071731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_32"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31610c561e36ff4a97c35ae1aa3730a
+      internalID: 907722633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_33"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 773
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a28b3653bf8d8244a389f4a9a330008
+      internalID: 747948011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_34"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801983bb3083fbd4f9e5612477085c7a
+      internalID: -2078139961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_35"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202fcd76feb22a645b791b32ba065ae6
+      internalID: 125628383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_36"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80ef4b9286081c4a8be1c31e3564ffc
+      internalID: 1818157800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_37"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb74ceea7cd5d4992282838d1b7f9a
+      internalID: -880062915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_38"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f773a2a352a64f8bca68510e77921
+      internalID: -423263892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_39"
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6ce5ba41c673f4386d0fb431bbb1de
+      internalID: -904997753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_40"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204bb86d68021724ca6c7a1963c89809
+      internalID: 1956997494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_41"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b046d5659c0e56149b8d83bdbd229c95
+      internalID: 1780135184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_42"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f927a370e6c1e42b91008d5e78ee1b
+      internalID: -1451504834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_43"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242352e6a692b8a4eace331b297755a0
+      internalID: 25487572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_44"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ceb0bc306ffd145aca2b07efb32a70
+      internalID: 1717424438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_45"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c68206becd03a94ba5e84f1626f9c1d
+      internalID: 615321823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_46"
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998575fcfeadda4b9b57eee4b80a38a
+      internalID: 1262404755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_47"
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 731
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b530d862927ad4ca03759e42d600d9
+      internalID: -169250078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_48"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253e64f787bd97042af83b54c3e805c8
+      internalID: -2081516588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_49"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0deb5296b4b88d489d0d7ec25839854
+      internalID: 505083626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_50"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 673
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab1de5cb154d34082b8fdfcd06109e
+      internalID: -1556422240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_51"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb66ae71766da744e9e7cdcb768499b5
+      internalID: -2138041638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_52"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e04459ff6a90b9458ff9a84d87e70a6
+      internalID: 674474377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_53"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9ef9c1c2b30fe4e8e2dfa09d28fb0f
+      internalID: -449748082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_54"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e833d1d0df8b594caecbde411808102
+      internalID: -1280149096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_55"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca89a366a1c79914d9194b21cc9923a5
+      internalID: 1642180379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_56"
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e61e719839e445827fe3f94c07c59
+      internalID: -1688560344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_57"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7789ed2ade533de4fb0b19e75360e2e1
+      internalID: 1641072104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_58"
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 532
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.7042474, y: 0.33179688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d9bd841f8e1324796029f3f4cbedac
+      internalID: 589672668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_59"
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 551
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d4b2bf19e5c9a4fa71ca990b424507
+      internalID: 1699535335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_60"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd76dbdf7331342ad5e7472d6f2657
+      internalID: 1798709931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_61"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ead8dda82a639d4aa6e8e65db2ccfa9
+      internalID: -1383935171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_62"
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 676
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 2.1940527, y: 0.95655334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ea1bd06b776b4e8fa747dfdb00aaa
+      internalID: 1193088450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_63"
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19079a22e9d502f4696c6dc33871e3a1
+      internalID: 115235518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_64"
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 629
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587fc7b476d24124c8d6fd9943751dba
+      internalID: -466470450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_65"
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 505
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.66820437, y: 0.031433105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd2a3e6ac97f542bda34e5760a5e29
+      internalID: -890243349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_66"
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 575
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abc01e905b822f4fa1cf491b33f0b57
+      internalID: -1451194034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_67"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 573
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0d20480fc0b6045a6d490c1252e32e
+      internalID: 1375680712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_68"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f4b2a2b5467a419a32882ba97037c
+      internalID: 1468426827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_69"
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a350b647232854ea418808488094f1
+      internalID: -325965338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_70"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 464
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ec251cff1db1479ea4f445ccd6e08
+      internalID: -1408447122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_71"
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 439
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c86791982ea019449ac61d9b822334b
+      internalID: 642573702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_72"
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 469
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a62ddb49813c2458005ef6caa80ec8
+      internalID: 1483610566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_73"
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 451
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 1.617353, y: 0.36783966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92463057a6e0dd34886267e4fcd26e7c
+      internalID: 1768936176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_74"
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 412
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 1.8216009, y: 0.4279126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace43243bd9d2d848a574e613a58ffe2
+      internalID: 242446378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_75"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 517
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 4.608976, y: 0.54805785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9a76577b776c4e92cfef2d2d17283
+      internalID: -713058896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_76"
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 376
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d489ea74fe4464fbcfaa8310f7b5d2
+      internalID: -1892092886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_77"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 473
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7598f0c7741b3ba4f941d1369e4b4fbf
+      internalID: 1704303278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_78"
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 492
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bca9de67a49e448bc1cdc14a980e67
+      internalID: -863279907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_79"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 473
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5841028, y: 0.7042474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34dc55648ac7d45bd9a8ea3ef88d7d
+      internalID: 790187802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_80"
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 488
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e320aa9cdd85cf74a8c3f0a0a14d9f9e
+      internalID: 1582328747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_81"
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 473
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831388c499dacaf459146241cfb8f9e7
+      internalID: -558228348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_82"
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 591
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e2b9268565663488b981366535c810
+      internalID: 848732102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_83"
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 485
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cda0043253b3b40910f89831f7765d
+      internalID: -1580407233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_84"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 473
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677b9f45059cbab42918fd93981b0d02
+      internalID: -1607811843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_85"
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9276bfc20dd9d48429ffc65f3db1525c
+      internalID: -2018151644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_86"
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 464
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d31c3cf43080d64d9eebc4a1bda2805
+      internalID: 1358720248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_87"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 343
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02657caf63515e94c8f0f40b5fbca268
+      internalID: 1021380383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_88"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 353
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: -1.4944156, y: 0.41589814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b948581d85596488255120e5f512bf
+      internalID: 972150642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_89"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf61952cbf799345b766c4ad1753203
+      internalID: 1636497619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_90"
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4310d4506380d80488a935522632932a
+      internalID: 2137083928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_91"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007f0e39d1e4ed94bad8ef888415604e
+      internalID: 1296092770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_92"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ae748f583f7764796810d46f950de0
+      internalID: -594176430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_93"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a23f1a5f301b2045ac1211b9be9b0b3
+      internalID: 1193415906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_94"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420025fb16139bf47bdf4e40ab2105da
+      internalID: 1682012916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_95"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6188d8ca0ad2b4cb376af2a2ef73be
+      internalID: -524938919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_96"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e1db00eaec54e45b8ae8467ae1d08d
+      internalID: 1678032398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_97"
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc4328c8c3dc374a8519b45d1e7562a
+      internalID: 376232753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_98"
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ee2f10984ad89408e5afbe19c6fd10
+      internalID: 78601944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_99"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318cd9f3582f38c4388f618b0f1cae6f
+      internalID: -514955195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_100"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3125f938ecadde74a80ff6f65e9ef915
+      internalID: -1567125818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_101"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b950556d6a27f4f8cedfa32c05a189
+      internalID: 159530383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_102"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2694b424d38fde348af7eedb65ba1e06
+      internalID: -981016255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_103"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35abc466b32262b4c9acc379dded70f4
+      internalID: 1607816029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_104"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f66bd45ec2d5144db5d5d29ac28f89a
+      internalID: -789178675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_105"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb909a7d8b2f7ff44b5665eb22bf65a4
+      internalID: -1678429887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_106"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4f6a74bdd3f03489fcf2a06e1a7a37
+      internalID: -1131258985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_107"
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed78e7416e9959c41be077b0311564d1
+      internalID: 1219343822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_108"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10374978858057f40a19f1307717c8cb
+      internalID: 74921418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_109"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f377e6c885aac459e21e660128ab84
+      internalID: 746764967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_110"
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cdce9d3d84b0d4fb7a57a4f0fd86b8
+      internalID: -527922018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_111"
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 356
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf748d5298d4774da5a65e5b59d97c3
+      internalID: 330389595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_112"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de86ff77d41b1a24b9569eb658ffdbe2
+      internalID: 1971133350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_113"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a32a40c049aaef4884fd19538877580
+      internalID: 1576794594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_114"
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f278b955577a57a438aeac58ae159412
+      internalID: 757005075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_115"
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4738df8769b46d84b83f0b93c94a4316
+      internalID: 873885265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_116"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2aca1969e1def4e8ccd185fd1827c1
+      internalID: -397619201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_117"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f91f5d7d8330e4383ac7c3b56e829f
+      internalID: 1320088459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_118"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 273
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026526125f971c4a9a768d709e3e8c6
+      internalID: -363615145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_119"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edbf2067d82a5b4285445162bed725c
+      internalID: 618841602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_120"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f31796a5136a4408412041982bd732
+      internalID: -325110815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_121"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109e6f51321c12a439b19d0bea645b58
+      internalID: 1617163439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_122"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1078311fdd8244199cb383a87025c8
+      internalID: 242701280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_123"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 249
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46f32471e3395e448d62bad2cbb11cc
+      internalID: -800167516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_124"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 240
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca6f8e54179ba4994e9c3a1a552264
+      internalID: -283674290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_125"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3d688c45bbe584da46f12aa1c6bb6c
+      internalID: -185020834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_126"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f98c6d0c0b4f4098a92a092c420dd
+      internalID: -1790357517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_127"
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 207
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89be935b1218674ebd59eed7da143cd
+      internalID: 2146886006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_128"
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8565bbb1691ee744aa470991ddf108e
+      internalID: 251210390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_129"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64999fff5c10b2542a2f9c86277a45de
+      internalID: 206154491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_130"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15091b44b65344382fdabecc8ae1e9
+      internalID: 2028007725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_131"
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac418f2adcaba14f8a284d923c17208
+      internalID: -391272545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_132"
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9753846e1c2744aa4062bd3222fb63
+      internalID: -858587192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_133"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5086daddeaeac40be6fbed1f5c20b2
+      internalID: 98942780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_134"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2b7f82f49f62e4689dafb8b1fa56b9
+      internalID: 956080904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_135"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53b06e93df52dc44bd8d889fcf96ab5
+      internalID: -613500754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_136"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2883a6fb9638814b8e60e7f5344d6e7
+      internalID: -507368040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_137"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac0dc2efd7d6a4f935032231a90c5b
+      internalID: -526772448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_138"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14acabeb16b10fc468c201aeaae01be4
+      internalID: -1067871656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_139"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b764c5311e20a438450df4bc11430c
+      internalID: -1711335639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_140"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 101
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6352395acfd8c3d4e8f32e956283d3c9
+      internalID: 1990497506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_141"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73ad76a8c953e428dfa48979336521
+      internalID: -130109025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_142"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 7
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c01f979c7824345a58a222d67ef312
+      internalID: -1864839393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_143"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a911299a3f4f0624d80dfad0600e694d
+      internalID: 1231017510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_144"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e164b785d4596a74cbdf776e83b2f362
+      internalID: 1466636143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_145"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036dec1a8f24e604b8dd3bc821912c38
+      internalID: -1127090283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_146"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af4dc2975e1013408d2dd4549118ab3
+      internalID: -1586641870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_147"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e6c2c09df0ec478856e2a2cf89be3
+      internalID: -1419151619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_148"
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf71dc0426de143aecaf6e8c78a906
+      internalID: -54545365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_149"
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9c0b8e80a00f04aa7f02c83a465320
+      internalID: 1130202019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_150"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c25c0bb0ad8fb4fa11fcfbe3c33c0d
+      internalID: -1538979402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_151"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c510f53e60fd0349aeb9c0bbefbbb74
+      internalID: 751228521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye
+        view sprite sheet for a video game, including a range of elements, all in
+        the same consistent size and style, pres_152"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2104794b911544d9aab3992fb47639
+      internalID: 2048246049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_0": 1759346273
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_1": -1001538796
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_10": -812482714
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_100": -1567125818
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_101": 159530383
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_102": -981016255
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_103": 1607816029
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_104": -789178675
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_105": -1678429887
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_106": -1131258985
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_107": 1219343822
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_108": 74921418
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_109": 746764967
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_11": -921079131
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_110": -527922018
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_111": 330389595
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_112": 1971133350
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_113": 1576794594
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_114": 757005075
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_115": 873885265
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_116": -397619201
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_117": 1320088459
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_118": -363615145
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_119": 618841602
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_12": -143239902
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_120": -325110815
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_121": 1617163439
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_122": 242701280
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_123": -800167516
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_124": -283674290
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_125": -185020834
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_126": -1790357517
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_127": 2146886006
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_128": 251210390
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_129": 206154491
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_13": 181040074
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_130": 2028007725
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_131": -391272545
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_132": -858587192
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_133": 98942780
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_134": 956080904
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_135": -613500754
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_136": -507368040
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_137": -526772448
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_138": -1067871656
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_139": -1711335639
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_14": -713031446
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_140": 1990497506
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_141": -130109025
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_142": -1864839393
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_143": 1231017510
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_144": 1466636143
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_145": -1127090283
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_146": -1586641870
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_147": -1419151619
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_148": -54545365
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_149": 1130202019
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_15": 1380898387
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_150": -1538979402
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_151": 751228521
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_152": 2048246049
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_16": -1731170261
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_17": -138083743
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_18": 218450647
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_19": 1532261116
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_2": -1144217148
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_20": 275302572
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_21": -892800808
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_22": -723461030
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_23": 732543308
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_24": -1011614734
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_25": 1030596968
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_26": -836285245
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_27": -993865932
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_28": -2119014444
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_29": 2004072421
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_3": -217621778
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_30": 1334025077
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_31": -846071731
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_32": 907722633
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_33": 747948011
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_34": -2078139961
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_35": 125628383
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_36": 1818157800
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_37": -880062915
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_38": -423263892
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_39": -904997753
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_4": -332207078
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_40": 1956997494
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_41": 1780135184
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_42": -1451504834
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_43": 25487572
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_44": 1717424438
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_45": 615321823
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_46": 1262404755
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_47": -169250078
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_48": -2081516588
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_49": 505083626
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_5": 520787200
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_50": -1556422240
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_51": -2138041638
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_52": 674474377
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_53": -449748082
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_54": -1280149096
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_55": 1642180379
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_56": -1688560344
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_57": 1641072104
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_58": 589672668
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_59": 1699535335
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_6": -565898453
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_60": 1798709931
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_61": -1383935171
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_62": 1193088450
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_63": 115235518
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_64": -466470450
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_65": -890243349
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_66": -1451194034
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_67": 1375680712
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_68": 1468426827
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_69": -325965338
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_7": 137378820
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_70": -1408447122
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_71": 642573702
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_72": 1483610566
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_73": 1768936176
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_74": 242446378
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_75": -713058896
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_76": -1892092886
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_77": 1704303278
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_78": -863279907
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_79": 790187802
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_8": -1557780332
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_80": 1582328747
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_81": -558228348
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_82": 848732102
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_83": -1580407233
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_84": -1607811843
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_85": -2018151644
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_86": 1358720248
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_87": 1021380383
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_88": 972150642
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_89": 1636497619
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_9": 1490716317
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_90": 2137083928
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_91": 1296092770
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_92": -594176430
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_93": 1193415906
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_94": 1682012916
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_95": -524938919
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_96": 1678032398
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_97": 376232753
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_98": 78601944
+      "DALL\xB7E 2024-03-06 14.23.51 - A comprehensive top-down bird's-eye view sprite sheet for a video game, including a range of elements, all in the same consistent size and style, pres_99": -514955195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

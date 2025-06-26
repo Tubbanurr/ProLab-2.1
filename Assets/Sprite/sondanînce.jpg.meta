@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: a05c3738ea40a0241939355a635c3e01
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "sondan\xF6nce_0"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b3efbd10bba1d4d815cdc34187ca20
+      internalID: -1245697607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_1"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47daae31f07191d4abf0f2910c2b889b
+      internalID: -2084717423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_2"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb20f4671df0414c87bbef3f4377a70
+      internalID: 1540420892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_3"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a75c0bdc3e6a4191fbfc9d972a0fc
+      internalID: -1624223864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_4"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c82efc433958c4284279b5cd9d7fc6
+      internalID: -1001038819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_5"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4331196724377cd469c300976c56b393
+      internalID: -810606818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_7"
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1739e58fa944024eb03ea124f11ace6
+      internalID: -1831075262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_8"
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929c26fa5686694c9035cc114dedd8b
+      internalID: -831209254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_9"
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 844
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066967babd986244bbea842ddfcdbd4a
+      internalID: -986886391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_11"
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 849
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf96f84e8233f4584969e10cd82a3f
+      internalID: 1369185373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_12"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 684
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f69d35b31d0c4ca83aa2ba272e031
+      internalID: 439991078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_13"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 684
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4ac71177cfbe14198b66e1ef520e5d
+      internalID: 777281259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_14"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 684
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc67694fa72acd48b11593834237334
+      internalID: 1741174004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_15"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 684
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e457e79a0cb6d9c48be13c62877f57f8
+      internalID: -1849092298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_16"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 684
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb721e769e84e0a4eb7f5760ba3ce8cf
+      internalID: 225839895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_17"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 684
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d3201a02a63046b8ece018aa81a18
+      internalID: 916317423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_18"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 684
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3e5f1ff4de6c24d8e41597e4476815
+      internalID: -504171819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_19"
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 689
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec02928907b022547a85296c912cb0a1
+      internalID: 338475084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_20"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 684
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87203e7b8370c4188ed6488c5ce881
+      internalID: -539264295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_23"
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 683
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d051f29920e0e34585ab8693ae04cab
+      internalID: -1564844402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_24"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 524
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b0a29132cd7e4eb803b747baccd5e
+      internalID: 1355055430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_25"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 524
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccc8bdac57ed4b4fa07c98763856dea
+      internalID: 1146789585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_26"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 524
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ebc61ebd619094e86a5d4bf16e3cd7
+      internalID: 1996850599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_27"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 524
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff106029b01cc64781c747903c4b737
+      internalID: -595094796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_28"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 524
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad841bbbc4e72a4190e2e7ad957b8c1
+      internalID: 1905860086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_29"
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 525
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaf68a42c3e3054d91f71989b121cc4
+      internalID: 324975390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_31"
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 526
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c99c4013f1e7a4188e199b7044a29a
+      internalID: -1240342285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_36"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 364
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf957ae51ca2e4bb332d1c9ebf395a
+      internalID: 1282557560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_37"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 364
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d92064d86459a242b91804bc039e0b5
+      internalID: -1252694410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_38"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 364
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e567358b72215494b983d239aebb46d9
+      internalID: 1086489620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_39"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 364
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705e7d58b518b944be01fac4886bdc1
+      internalID: 1178496001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_40"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 364
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbdf5af0149ef44090910b80fe78e4e
+      internalID: -1257609059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_41"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 364
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ab5f9d87b48442abc969592f5451f
+      internalID: 1366147669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_42"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 364
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9871999765a9e24cb4e7a2b344e3bc2
+      internalID: 1310069342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_48"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 204
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a0c707e646c62479c60365e02ca5ae
+      internalID: -2043338884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_49"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 204
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bfc148df243e748b465d802dd481f5
+      internalID: -2074370611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_50"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 204
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca8f9fdd8101e54da268f01f17085a7
+      internalID: 1252300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_51"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 204
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a26704fe0bf154a8d26bed5d848e01
+      internalID: 69988766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_52"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 204
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a350c790cf9740545b610ae649032f85
+      internalID: -1338427853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_53"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 204
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f520c095dab41944690fa213d1a80243
+      internalID: -204225875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_54"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 204
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1928298a046bee34fbe377fc6cf2fc63
+      internalID: -314089528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_60"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d507b166f6a6ed4a81697a9a8ee280d
+      internalID: -1749064789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_61"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 44
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992ae4ec3ebb4fc42a89a1f8a9187ac5
+      internalID: 250555590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_62"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 44
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f6644178bf9f41bba03063a806d67
+      internalID: 1649259023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_63"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 44
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00272c1255bc9d44e9147d8406459649
+      internalID: 897401827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_64"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 44
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f94ba2df098684f8f2cf4c940ea5aa
+      internalID: -1740382495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_65"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 44
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb2a6a20361b54d8873a6b64757aa6
+      internalID: -1480770949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sondan\xF6nce_66"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 44
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bcd9ba380ec0f468e086b24967c397
+      internalID: -1923003089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "sondan\xF6nce_0": -1245697607
+      "sondan\xF6nce_1": -2084717423
+      "sondan\xF6nce_10": 66619843
+      "sondan\xF6nce_11": 1369185373
+      "sondan\xF6nce_12": 439991078
+      "sondan\xF6nce_13": 777281259
+      "sondan\xF6nce_14": 1741174004
+      "sondan\xF6nce_15": -1849092298
+      "sondan\xF6nce_16": 225839895
+      "sondan\xF6nce_17": 916317423
+      "sondan\xF6nce_18": -504171819
+      "sondan\xF6nce_19": 338475084
+      "sondan\xF6nce_2": 1540420892
+      "sondan\xF6nce_20": -539264295
+      "sondan\xF6nce_21": -1423301422
+      "sondan\xF6nce_22": -1903797228
+      "sondan\xF6nce_23": -1564844402
+      "sondan\xF6nce_24": 1355055430
+      "sondan\xF6nce_25": 1146789585
+      "sondan\xF6nce_26": 1996850599
+      "sondan\xF6nce_27": -595094796
+      "sondan\xF6nce_28": 1905860086
+      "sondan\xF6nce_29": 324975390
+      "sondan\xF6nce_3": -1624223864
+      "sondan\xF6nce_30": -1647064339
+      "sondan\xF6nce_31": -1240342285
+      "sondan\xF6nce_32": 1327757351
+      "sondan\xF6nce_33": 1062941664
+      "sondan\xF6nce_34": -465785776
+      "sondan\xF6nce_35": -98319329
+      "sondan\xF6nce_36": 1282557560
+      "sondan\xF6nce_37": -1252694410
+      "sondan\xF6nce_38": 1086489620
+      "sondan\xF6nce_39": 1178496001
+      "sondan\xF6nce_4": -1001038819
+      "sondan\xF6nce_40": -1257609059
+      "sondan\xF6nce_41": 1366147669
+      "sondan\xF6nce_42": 1310069342
+      "sondan\xF6nce_43": -721080402
+      "sondan\xF6nce_44": -686484281
+      "sondan\xF6nce_45": 671458446
+      "sondan\xF6nce_46": 317423214
+      "sondan\xF6nce_47": 294523317
+      "sondan\xF6nce_48": -2043338884
+      "sondan\xF6nce_49": -2074370611
+      "sondan\xF6nce_5": -810606818
+      "sondan\xF6nce_50": 1252300398
+      "sondan\xF6nce_51": 69988766
+      "sondan\xF6nce_52": -1338427853
+      "sondan\xF6nce_53": -204225875
+      "sondan\xF6nce_54": -314089528
+      "sondan\xF6nce_55": 1197037083
+      "sondan\xF6nce_56": -1051127054
+      "sondan\xF6nce_57": -2007490986
+      "sondan\xF6nce_58": 1859037045
+      "sondan\xF6nce_59": -413373597
+      "sondan\xF6nce_6": 2000258087
+      "sondan\xF6nce_60": -1749064789
+      "sondan\xF6nce_61": 250555590
+      "sondan\xF6nce_62": 1649259023
+      "sondan\xF6nce_63": 897401827
+      "sondan\xF6nce_64": -1740382495
+      "sondan\xF6nce_65": -1480770949
+      "sondan\xF6nce_66": -1923003089
+      "sondan\xF6nce_67": 138251298
+      "sondan\xF6nce_68": 1180611111
+      "sondan\xF6nce_69": -408460283
+      "sondan\xF6nce_7": -1831075262
+      "sondan\xF6nce_70": 792469319
+      "sondan\xF6nce_71": -1872820330
+      "sondan\xF6nce_8": -831209254
+      "sondan\xF6nce_9": -986886391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
